@@ -36,4 +36,21 @@ This repository showcases a modern and professional eCommerce web layout designe
 ### Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tech-vault-layout.git
+   git clone https://github.com/sndpbag/TechVault-ecomm-web-resources.git
+
+
+ 
+ ## Screenshots
+
+### Web Layout
+![Screen Shot](./E-commerce Layout.jpg)
+
+Contributing
+Feel free to contribute by opening issues or submitting pull requests for additional features or layout enhancements.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Author
+Created by sndpbag.
+ 
