@@ -43,7 +43,7 @@ This repository showcases a modern and professional eCommerce web layout designe
  ## Screenshots
 
 ### Web Layout
-![Screen Shot](./E-commerce Layout.jpg)
+![Screen Shot](https://i.ibb.co/0cYLNnk/E-commerce-Layout.jpg)
 
 Contributing
 Feel free to contribute by opening issues or submitting pull requests for additional features or layout enhancements.
